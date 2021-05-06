@@ -14,23 +14,11 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Project Name  - Welcome To Me First Demo Page</a>
 		</div>
 	</div>
 </nav>
 
-<div class="container">
-
-	<div class="row">
-		<div class="col-md-8">
-			<h2>Welcome To Me First Demo Page</h2>
-		</div>	
-	</div>
-
-
-	<hr>
-
-</div>
 
 <spring:url value="/resources/core/css/hello.js" var="coreJs" />
 <spring:url value="/resources/core/css/bootstrap.min.js" var="bootstrapJs" />
